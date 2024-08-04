@@ -1,3 +1,3 @@
 # AirlinemgtSystem_javaProject
-in this project i used the jdbc connectivity with my sql.<br>
-i am fresehr in java developer field
+in this project i used the jdbc connectivity with my sql.<b>
+I am fresher java developer
